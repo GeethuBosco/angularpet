@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Nicky",
+      "category": "Dog",
+      "breed": "English Retriver",
+      "color": "Cream",
+      "age": "1.5",
+      "price": "25000"
+    },
+    {
+      "id": 2,
+      "name": "Honey",
+      "category": "Dog",
+      "breed": "ToyPom",
+      "color": "honey",
+      "age": "3",
+      "price": "20000"
+    },
+    {
+      "id": 3,
+      "name": "Brownie",
+      "category": "Dog",
+      "breed": "Beagle",
+      "color": "white,black,orange",
+      "age": "3m",
+      "price": "25000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
